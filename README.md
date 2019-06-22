@@ -1,5 +1,5 @@
 # EntityCanonicalizationDataset
-This is a temperory link which we plan to relocate if accepted.
+This is a temperory anonymous link which we plan to relocate if accepted.
 
 The two publicly available source of datasets for recruitment domain entities is described below:
 
