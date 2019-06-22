@@ -1,7 +1,7 @@
 # EntityCanonicalizationDataset
 This is a temperory anonymous link which we plan to relocate if accepted.
 
-The two publicly available source of datasets for recruitment domain entities is described below:
+**The two publicly available source of datasets for recruitment domain entities is described below:**
 
 
 1) **DBpedia** (https://wiki.dbpedia.org/) is a publically available ontology manually created based on the most commonly used infoboxes within Wikipedia.
