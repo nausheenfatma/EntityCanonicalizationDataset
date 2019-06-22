@@ -17,7 +17,7 @@ where {?s dbo:wikiPageRedirects ?o .
 
 -All the variations of a company entity in DBpedia is, by design, mapped to 1 standard variation name. Thus, the standard variation name can be used to group all its other variations, and generate groups of unique entity clusters respectively.
 
-The file *DBpedia_clusters.tsv* consists of the gold entity clusters which we used.
+The file *DBpedia_company_clusters.tsv* consists of the gold entity clusters which we used.
 
 
 2) **ESCO** (https://ec.europa.eu/esco/portal/home): ESCO (European Skills, Competences, Qualifications and Occupations) is the European multilingual classification of Skills, Competences, Qualifications and Occupations.  
